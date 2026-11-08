@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "playhard.play.hosting",
-    "port": "7687",
+    "port": "22347",
     "version": "",
     "try-creative": false
   },
